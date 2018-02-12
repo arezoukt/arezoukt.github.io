@@ -9,7 +9,7 @@ Former advisor: [http:/www.stanford.edu/~boyd Prof. Stephen Boyd]\n
 ~~~  
 
 == Contact 
-[mailto:arezou@keshavarz.net email], [http:/www.linkedin.com/in/arezoukeshavarz linkedin], [https:/www.dropbox.com/s/3s8f8y2msx52i8y/resume.pdf resume] 
+[mailto:arezou@keshavarz.net email], [http:/www.linkedin.com/in/arezoukeshavarz linkedin], [https:/www.dropbox.com/s/3s8f8y2msx52i8y/resume.pdf resume], [https:/scholar.google.com/citations?user=uKLjn0UAAAAJ&hl=en&oi=ao Google scholar] 
 
 == Interetss and current research
 - Machine Learning\n
@@ -25,8 +25,21 @@ Former advisor: [http:/www.stanford.edu/~boyd Prof. Stephen Boyd]\n
 - M.S., Electrical Engineering [http:/www.stanford.edu Stanford University], June 2009\n 
 - B.A.Sc., Electrical Engineering, [http:/www.utoronto.ca University of Toronto], June 2007\n
 
-#== Teaching
+== Teaching
+Teaching assistant (TA) for:
+- [https:/web.stanford.edu/class/ee365/ Stochastic Control] (EE365), Spring 2012
+- [https:/web.stanford.edu/class/ee364b/ Convex Optimization II] (EE364B), Spring 2011
+- [http:/ee364a.stanford.edu/ Convex Optimization I] (EE364A), Winter 2011
+- [http:/ee263.stanford.edu/ Introduction to Linear Dynamical Systems] (EE263), Fall 2010
 
-#== Publications
+== Ph.D. Thesis
+:{[https:/stacks.stanford.edu/file/druid:pc255hj4342/thesis-augmented.pdf Convex Methods for Approximate Dynamic Programming]} A. Keshavarz
+#[https:/stacks.stanford.edu/file/druid:pc255hj4342/thesis-augmented.pdf Convex Methods for Approximate Dynamic Programming], A. Keshavarz.
+
+== Publications
+- [https:/web.stanford.edu/~boyd/papers/quad_adp_inp_aff.html Quadratic Approximate Dynamic Programming for Input-Affine Systems], A. Keshavarz and S. Boyd. International Journal of Robust and Nonlinear Control, 24(3):432-449, February 2014.
+- [https:/web.stanford.edu/~boyd/papers/imputed_objective.html Imputing a Convex Objective Function], A. Keshavarz, Y. Wang, and S. Boyd. Proceedings IEEE Multi-Conference on Systems and Control, pages 613–619, September 2011.
+- [https:/web.stanford.edu/~boyd/papers/admm_gam.html A distributed algorithm for fitting generalized additive models], E. Chu, A. Keshavarz, S. Boyd. Optimization and Engineering, 2013. 
+[https://web.stanford.edu/~boyd/papers/constrained_mhe.html Moving horizon estimation for staged QP problems], E. Chu, A. Keshavarz, D. Gorinevsky, and S. Boyd. Proceedings IEEE Conference on Decision and Control, December 2012.
 
 #==Photography 
