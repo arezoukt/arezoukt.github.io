@@ -18,7 +18,6 @@ update : $(PHDOCS)
 	sudo git add --all
 	sudo git commit
 	sudo git push origin master
-	# insert code for copying to server here.
 	@echo ' done.' 
 
 .PHONY : clean
