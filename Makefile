@@ -1,4 +1,4 @@
-DOCS=index publications teaching
+DOCS=index publications teaching photography
 
 HDOCS=$(addsuffix .html, $(DOCS))
 
@@ -15,6 +15,9 @@ docs : $(HDOCS)
 .PHONY : update
 update : $(PHDOCS)
 	@echo -n 'Copying to server...'
+	sudo git add --all
+	sudo git commit
+	sudo git push origin master
 	# insert code for copying to server here.
 	@echo ' done.' 
 
