@@ -1,4 +1,4 @@
-DOCS=index publications
+DOCS=index publications teaching
 
 HDOCS=$(addsuffix .html, $(DOCS))
 
