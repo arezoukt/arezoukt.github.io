@@ -10,7 +10,7 @@ default: docs
 docs : $(HDOCS)
 %.html : %.jemdoc MENU
 	@printf 'Running jemdoc\n'
-	~/jemdoc/jemdoc.py -o $@ $<
+	~/jemdoc/jemdoc.py -c -o $@ $<
 
 .PHONY : update
 update : $(PHDOCS)
