@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}, showsource
+# jemdoc: menu{MENU}{}, showsource
 
 = 8101934 - Convex Optimization
 Instructor: Arezou Keshavarz
