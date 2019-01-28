@@ -1,4 +1,4 @@
-DOCS=index publications teaching photography news
+DOCS=index publications teaching photography news cvx_course_website
 
 HDOCS=$(addsuffix .html, $(DOCS))
 
