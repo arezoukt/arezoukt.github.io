@@ -1,4 +1,4 @@
-DOCS=index publications teaching photography news
+DOCS=index
 
 HDOCS=$(addsuffix .html, $(DOCS))
 
@@ -10,7 +10,7 @@ default: docs
 docs : $(HDOCS)
 %.html : %.jemdoc MENU
 	@printf 'Running jemdoc\n'
-	~/jemdoc/jemdoc.py -c -o $@ $<
+	~/jemdoc/jemdoc.py -c ../jemdoc.conf -o $@ $<
 
 .PHONY : update
 update : $(PHDOCS)
