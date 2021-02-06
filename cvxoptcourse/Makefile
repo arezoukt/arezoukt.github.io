@@ -8,7 +8,7 @@ default: docs
 .PHONY : docs 
 
 docs : $(HDOCS)
-%.html : %.jemdoc MENU
+.html : %.jemdoc MENU
 	@printf 'Running jemdoc\n'
 	~/jemdoc/jemdoc.py -o $@ $<
 
