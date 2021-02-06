@@ -1,0 +1,10 @@
+After you modify files in the submodule (in its own directory), remember these steps:
+1) First remember to go into submodule:
+cd cvxoptcourse
+and then do 
+sudo git pull
+to pull in the changes. 
+2) Then go back to the main repo:
+cd ..
+make update
+to push the changes to the main repo. 
