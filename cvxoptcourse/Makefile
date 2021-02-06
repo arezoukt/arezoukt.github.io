@@ -1,14 +1,15 @@
-DOCS=index home contact slides resource lecture homework
+DOCS=index contact slides resources lectures homework
 
 HDOCS=$(addsuffix .html, $(DOCS))
+PHDOCS=$(addprefix html/, $(HDOCS))
 
 .PHONY: default
 default: docs
 
-.PHONY : docs 
+.PHONY : docs
+docs : $(PHDOCS)
 
-docs : $(HDOCS)
-.html : %.jemdoc MENU
+html/%.html : %.jemdoc MENU
 	@printf 'Running jemdoc\n'
 	~/jemdoc/jemdoc.py -o $@ $<
 
