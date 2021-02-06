@@ -1,0 +1,3 @@
+[submodule "cvxoptcourse"]
+	path = cvxoptcourse
+	url = https://github.com/arezoukt/cvxoptcourse
