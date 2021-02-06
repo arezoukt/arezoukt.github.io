@@ -1,0 +1,7 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Resouces
+
+- *Textbook:* The textbook is [http://www.stanford.edu/~boyd/cvxbook/ Convex Optimization], available online.
+- *Software:* You will need to install Matlab and CVX software package for homework assignments. Read the user manual [http://cvxr.com/cvx/doc/CVX.pdf here].
+- Very useful and *education quizzes* are available on [http://web.stanford.edu/class/ee364a/lectures.html this website]. These are not mandatory but highly encouraged.
+- If you need to brush up on your *linear algebra*, [http://vmls-book.stanford.edu/ this book] is a good reference. It also has a good set of accompanying lecture slides.

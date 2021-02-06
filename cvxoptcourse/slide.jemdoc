@@ -1,0 +1,6 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Slides
+
+- [https://github.com/Simuno13/ConvexOptimization/raw/main/Lectures/1-intro.pdf Introduction]
+- [https://github.com/Simuno13/ConvexOptimization/raw/main/Lectures/lecture1-lin-alg.pdf Linear Algebra review]
+

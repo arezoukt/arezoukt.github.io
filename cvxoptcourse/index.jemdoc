@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Welcome to Convex optimization
+[arezou.keshavarz@gmail.com Arezou Keshavarz, Ph.D.]
+
+Concentrates on recognizing and solving convex optimization problems that arise in applications. Convex sets, functions, and optimization problems. Basics of convex analysis. Least-squares, linear and quadratic programs, semi-definite programming, min-max, external volume, and other problems. Optimality conditions, duality theory, theorems of alternative, and applications. Interior-point methods. Applications to signal processing, communications, statistics, machine learning, control, and mechanical engineering, digital and analog circuit design, and finance.
+
+== Course Structure
+- Lectures: Saturday/Monday 10:30-12 in room #212
+- Instructor office hours: Right after class, room #412.
+- TA tutorial sessions:
+-- The TAs will offer tutorials that will also be informal working sessions and their office hours, starting from the first week of class. Attendance is encouraged.
+-- First tutorial session is on 15 of Bahman (Tuesday) at 12:30-2 and then after that will be held on Mondays 12:30-2 in Room #211
